@@ -1,0 +1,18 @@
+[
+{
+  "modid": "custom_nether_scale",
+  "name": "Custom Nether Scale",
+  "description": "Changes Nether dimension scale",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["OLEGSHA"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [
+    "OpenMods"
+  ]
+}
+]
