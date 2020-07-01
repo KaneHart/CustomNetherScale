@@ -35,6 +35,6 @@ A `gradlew build` would be enough, if only OpenModsLib wasn't required. It is, t
        url = "https://repo1.maven.org/maven2/"
    }
    ```
-   *to use HTTPS to connect to the central Maven repository.* Maven cenral will refuse to cooperate otherwise. See this mod's `build.gradle` for reference.
+   *to use HTTPS to connect to the central Maven repository.* Maven central will refuse to cooperate otherwise. See this mod's `build.gradle` for reference.
 4. Follow instructions in the <a href="https://github.com/OpenMods/OpenModsLib/tree/753cde45e749c600bf82bc6f5384e878cef40f3a">OpenModsLib repo</a>.
 5. `gradlew build`.
